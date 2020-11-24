@@ -1,3 +1,8 @@
-# docs
+# Useful links and random testing.
 
-Please just ignore this, I'm just testing out things with git and stuff that I'm trying to do. Thanks, and have a great day!
+This is a random repository that I use to test various things. Feel free to ignore this!
+
+On another note, I'm keeping track of links that I find very helpful to me, so listed below are some sorted by language/category:
+
+# React
+- https://github.com/gitname/react-gh-pages: Quick tutorial on how to deploy a React app to github pages
