@@ -34,3 +34,6 @@ Many useful links varying in difficulty, most of which I have not used but could
 
 # Very useful design tool!
 - https://www.figma.com/
+
+# Machine Learning
+- https://www.coursera.org/learn/machine-learning very good intro!
